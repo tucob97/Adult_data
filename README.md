@@ -19,7 +19,7 @@ Il dataset **UCI Adult Census Income** è disponibile pubblicamente ed è utiliz
 [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/adult)
 
 ## Requisiti
-Per eseguire il progetto, installa le seguenti librerie Python:
+Dipendenze librerie Python:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
 ```
