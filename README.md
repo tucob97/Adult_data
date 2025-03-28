@@ -35,7 +35,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
    ```
 3. Avviare Jupyter Notebook:
    ```bash
-   jupyter notebook
+   jupyter notebook .
    ```
 4. Aprire ed eseguire il notebook
 
